@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate programmer, always striving to c
 - 🌱 I’m constantly learning new technologies and frameworks to stay up to date in the world of web development and data science.
 - 👯 I’m open to collaborating on interesting and challenging projects.
 - 📫 How to reach me: You can email me at [juanharmse1@gmail.com](mailto:juanharmse1@gmail.com).
-- ⚡ Fun fact: I once built a full-fledged **nuclear reactor simulation game** in React!
+- ⚡ Fun fact: I once built a full-fledged **nuclear reactor simulation game** in React TypeScript!
 
 ## 🧑‍💻 Coding Skills
 
@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I am a passionate programmer, always striving to c
 
 - [LinkedIn](https://www.linkedin.com/in/juanharmse)
 - [Twitter](https://twitter.com/juanharmse)
-- [Website](https://www.juanharmse.com)
+- [Website](http://localhost:5173)
 
 ## 📊 My Coding Activity
 
