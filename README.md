@@ -33,10 +33,10 @@ Welcome to my GitHub profile! I am a passionate programmer, always striving to c
   
 
 ## 🌐 Let's Connect!
-- [Email](mailto:juanharmse1@gmail.com)
 - [Website](http://localhost:5173)
 - [LinkedIn](https://www.linkedin.com/in/juanharmse)
 - [WakaTime](https://wakatime.com/@Juan_Harmse)
+- [Email](mailto:juanharmse1@gmail.com)
 
 ## 📊 My Coding Activity
 
