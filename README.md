@@ -11,12 +11,11 @@ Welcome to my GitHub profile! I'm a passionate web developer, always striving to
 - 📫 How to reach me: You can email me at [juan@harmse.com](mailto:juan@harmse.com).
 - ⚡ Fun fact: I once built a full-fledged **nuclear reactor simulation game** in React!
 
-## 🔧 Technologies & Tools
+## 🧑‍💻 Coding Skills
 
-- **Languages**: JavaScript, TypeScript, Python, Java, SQL
-- **Frameworks**: React, Node.js, Express, Next.js
-- **Database**: PostgreSQL, MongoDB, MySQL
-- **Tools**: Docker, Git, AWS, VS Code, Nginx
+- **Languages & Frameworks**: Java, JavaScript, TypeScript, Python, C#, SQL, React, Node.js, Express, Next.js
+- **Databases**: PostgreSQL, MongoDB, MySQL
+- **Tools**: Docker, Git, AWS, VS Code, Nginx, Jest, Webpack
 
 ## 🌐 Let's Connect!
 
