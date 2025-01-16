@@ -1,19 +1,17 @@
 # Hi there, I'm Juan Harmse 👋
 
-Welcome to my GitHub profile! I am a passionate programmer, always striving to create beautiful and functional websites, tools, and features.
+Welcome to my GitHub profile! I am a passionate programmer, always striving to create beautiful and functional websites, tools/features and programs.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **full-stack web development** and **machine learning** projects.
-- 🌱 I’m constantly learning new technologies and frameworks to stay up to date in the world of web development and data science.
+- 🔭 I’m currently working on **full-stack web development** and improving my knowledge on **machine learning**.
 - 👯 I’m open to collaborating on interesting and challenging projects.
 - 📫 How to reach me: You can email me at [juanharmse1@gmail.com](mailto:juanharmse1@gmail.com).
-- ⚡ Fun fact: I once built a full-fledged **nuclear reactor simulation game** in React TypeScript!
 
 ## 🧑‍💻 Coding Skills
 
 - **Languages & Frameworks**:  
-  Java, JavaScript, TypeScript, Python, C#, Dart, HTML, CSS, SQL, Shell, Bash, PowerShell
+  JavaScript, TypeScript, Python, C#, Dart, HTML, CSS
 
 - **Front-End Frameworks**:  
   React, Flutter
@@ -22,23 +20,23 @@ Welcome to my GitHub profile! I am a passionate programmer, always striving to c
   FastAPI
 
 - **Databases**:  
-  PostgreSQL, MySQL, SQLite, Microsoft SQL Server, Redis, NCache
+  PostgreSQL, Microsoft SQL Server, Redis, NCache
 
-- **DevOps & Cloud Platforms**:  
+- **DevOps**:  
   Docker
 
-- **Tools & Libraries**:  
-  Git, GitHub, GitLab, VS Code, Postman, React Query, Axios, GraphQL, Chart.js
+- **Tools**:  
+  Git, GitHub, Visual Studio Code, Visual Studio, Postman
 
 - **Testing & Quality Assurance**:  
   JUnit, Pytest
   
 
 ## 🌐 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/juanharmse)
-- [Twitter](https://twitter.com/juanharmse)
+- [Email](mailto:juanharmse1@gmail.com)
 - [Website](http://localhost:5173)
+- [LinkedIn](https://www.linkedin.com/in/juanharmse)
+- [WakaTime](https://wakatime.com/@Juan_Harmse)
 
 ## 📊 My Coding Activity
 
