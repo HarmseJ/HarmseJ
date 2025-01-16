@@ -6,31 +6,6 @@ Welcome to my GitHub profile! I am a passionate programmer, always striving to c
 
 - 🔭 I’m currently working on **full-stack web development** and improving my knowledge on **machine learning**.
 - 👯 I’m open to collaborating on interesting and challenging projects.
-- 📫 How to reach me: You can email me at [juanharmse1@gmail.com](mailto:juanharmse1@gmail.com).
-
-## 🧑‍💻 Coding Skills
-
-- **Languages & Frameworks**:  
-  JavaScript, TypeScript, Python, C#, Dart, HTML, CSS
-
-- **Front-End Frameworks**:  
-  React, Flutter
-
-- **Back-End Frameworks**:  
-  FastAPI
-
-- **Databases**:  
-  PostgreSQL, Microsoft SQL Server, Redis, NCache
-
-- **DevOps**:  
-  Docker
-
-- **Tools**:  
-  Git, GitHub, Visual Studio Code, Visual Studio, Postman
-
-- **Testing & Quality Assurance**:  
-  JUnit, Pytest
-  
 
 ## 🌐 Let's Connect!
 - [Website](http://localhost:5173)
