@@ -1,6 +1,6 @@
 # Hi there, I'm Juan Harmse 👋
 
-Welcome to my GitHub profile! I am a passionate programmer, always striving to create beautiful and functional websites, tools/features and programs.
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
