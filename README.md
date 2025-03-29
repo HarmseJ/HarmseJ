@@ -19,10 +19,6 @@ Welcome to my GitHub profile!
   <img src="https://wakatime.com/badge/user/018e38c4-08b1-4122-a35f-e35f4e6a0fe5.svg" alt="Total time coded since Mar 13 2024" />
 </a>
 
-## 🌟 GitHub Stats
-
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarmseJ&show_icons=true&hide=prs&count_private=true&hide_title=true&theme=radical)
-
 ---
 
 Thanks for visiting! Feel free to explore my repositories and projects. 🚀
